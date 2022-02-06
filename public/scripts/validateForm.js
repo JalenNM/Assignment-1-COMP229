@@ -1,4 +1,4 @@
-/* validateForm.js - Jalen Mendonca - 301098614 - 10/08/2020 */
+/* validateForm.js - Jalen Mendonca - 301098614 - 02/05/2022 */
 
 function validateForm() {
     var x = document.forms["contactForm"]["name"].value;

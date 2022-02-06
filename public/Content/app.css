@@ -1,8 +1,24 @@
+/* app.css - Jalen Mendonca - 301098614 - 02/05/2022 */
+
 body {
-  padding: 50px;
+  /*padding: 50px;
+  background-color: #353A40;*/
+  
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: #919191;
 }
 
 a {
   color: #00B7FF;
+}
+
+.paragraph {
+  background-color: #E8ECEF;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
